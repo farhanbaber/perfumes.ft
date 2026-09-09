@@ -1,0 +1,31 @@
+{
+  "name": "luxury-perfume-brand",
+  "version": "1.0.0",
+  "description": "Minimalist dark-themed luxury perfume brand website",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.16",
+    "emailjs-com": "^3.2.0",
+    "framer-motion": "^10.16.4",
+    "next": "^13.5.0",
+    "postcss": "^8.4.31",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.48.0",
+    "tailwindcss": "^3.3.0"
+  },
+  "devDependencies": {
+    "@next/swc-win32-x64-msvc": "^16.3.4",
+    "@types/node": "^20.5.0",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "eslint": "^8.48.0",
+    "eslint-config-next": "^13.5.0",
+    "typescript": "^5.2.0"
+  }
+}
