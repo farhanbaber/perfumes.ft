@@ -24,7 +24,7 @@ html {
 body {
   background-color: #080808;
   color: #f0ece4;
-  font-family: 'Inter', sans-serif;
+  font-family: var(--font-inter), 'Inter', sans-serif;
   line-height: 1.7;
   overflow-x: hidden;
   -webkit-font-smoothing: antialiased;

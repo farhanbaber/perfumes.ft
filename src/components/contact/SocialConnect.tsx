@@ -60,7 +60,7 @@ export default function SocialConnect() {
         >
           <h2 className="text-5xl md:text-6xl font-serif mb-6">Connect With Us</h2>
           <p className="text-lg text-gray-400 max-w-3xl mx-auto">
-            Reach out through your preferred channel. We're here to answer questions and share the Luxe Essence experience.
+            Reach out through your preferred channel. We&apos;re here to answer questions and share the Luxe Essence experience.
           </p>
         </motion.div>
 

@@ -119,7 +119,7 @@ export default function BrandStory() {
         >
           <div className="divider-gold mb-8" />
           <blockquote className="text-2xl md:text-3xl font-serif italic text-[#c8c0b0] max-w-3xl mx-auto leading-relaxed">
-            "Perfume is the art that makes memory speak."
+            &ldquo;Perfume is the art that makes memory speak.&rdquo;
           </blockquote>
           <p className="text-[#555] text-xs tracking-[3px] uppercase mt-4">— The Luxe Essence Philosophy</p>
         </motion.div>

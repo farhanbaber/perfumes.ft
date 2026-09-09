@@ -68,7 +68,7 @@ export default function Testimonials() {
           className="absolute top-32 left-1/2 -translate-x-1/2 text-[180px] font-serif leading-none pointer-events-none select-none"
           style={{ color: 'rgba(212,165,116,0.04)' }}
         >
-          "
+          &ldquo;
         </div>
 
         {/* Testimonial card */}
@@ -105,7 +105,7 @@ export default function Testimonials() {
 
               {/* Quote */}
               <blockquote className="text-xl md:text-2xl font-serif italic text-[#d0ccc4] leading-relaxed mb-10">
-                "{testimonials[active].content}"
+                &ldquo;{testimonials[active].content}&rdquo;
               </blockquote>
 
               {/* Author */}

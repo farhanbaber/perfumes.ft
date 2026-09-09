@@ -59,7 +59,7 @@ export default function ContactForm() {
           className="mb-16 text-center"
         >
           <h2 className="text-5xl md:text-6xl font-serif mb-6">Get in Touch</h2>
-          <p className="text-lg text-gray-400">We'd love to hear from you. Send us a message and we'll respond as soon as possible.</p>
+          <p className="text-lg text-gray-400">We&apos;d love to hear from you. Send us a message and we&apos;ll respond as soon as possible.</p>
         </motion.div>
 
         <motion.form
@@ -136,7 +136,7 @@ export default function ContactForm() {
               animate={{ opacity: 1, y: 0 }}
               className="p-4 bg-green-900/30 border border-green-500/50 rounded text-green-400 text-center"
             >
-              ✓ Message sent successfully! We'll be in touch soon.
+              ✓ Message sent successfully! We&apos;ll be in touch soon.
             </motion.div>
           )}
 
