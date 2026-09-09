@@ -15,7 +15,7 @@ export default function ProductCTA() {
           <div className="divider-gold mb-8" />
           <h2 className="text-5xl md:text-6xl font-serif mb-6">Ready to Discover?</h2>
           <p className="text-[#888] text-lg font-light mb-14 max-w-2xl mx-auto leading-relaxed">
-            Essence Noir is more than a fragrance — it's an invitation to experience luxury redefined.
+            Essence Noir is more than a fragrance — it&apos;s an invitation to experience luxury redefined.
             Limited availability ensures exclusivity for those who appreciate the finer things.
           </p>
 
