@@ -19,7 +19,9 @@ export default function Footer() {
     setTimeout(() => setSubStatus('idle'), 4000)
   }
 
-  const cols = [
+  type FooterLink = { label: string; href: string; external?: boolean }
+
+  const cols: { title: string; links: FooterLink[] }[] = [
     {
       title: 'Navigate',
       links: [
